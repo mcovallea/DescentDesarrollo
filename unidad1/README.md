@@ -1,4 +1,4 @@
-# Asignatura Métodos Cuantitativos
+# Asignatura Descentralización y Desarrollo Regional
 
 ## Unidad 1: Las teorías del desarrollo en contexto: una revisión a la escuelas del pensamiento. 
 
