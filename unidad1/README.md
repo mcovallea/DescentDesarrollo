@@ -19,7 +19,7 @@
 
 #### Lecturas: 
 
-[Robert Nisbet: La idea de progreso](unidad1/1laideadeprogreso.pdf)
+[Robert Nisbet: La idea de progreso](DescentDesarrollo/unidad1/1laideadeprogreso.pdf)
 
 
 
