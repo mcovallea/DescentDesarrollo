@@ -23,13 +23,15 @@
 #### Contenidos:
 
 1.  Origen y formalización de los Estudios del Desarrollo. 
-2. Escuelas del desarrollo (escuela de la Modernización, escuela cepalina, escuela de la dependencia, neoliberalismo, análisis de sistemas - mundo).
+2.  Escuelas del desarrollo (escuela de la Modernización, escuela cepalina, escuela de la dependencia, neoliberalismo, análisis de sistemas - mundo).
 3.  Teorías alternativas del desarrollo (desarrollo humano y desarrollo a escala humana).
-4. Alternativas al desarrollo (postdesarrollo /decrecimiento/ buen vivir).
+4.  Alternativas al desarrollo (postdesarrollo /decrecimiento/ buen vivir).
 
 #### Lecturas: 
 
-[Robert Nisbet: La idea de progreso]()
+[Robert Nisbet: La idea de progreso](unidad1/1laideadeprogreso.pdf)
+
+
 
 
 
