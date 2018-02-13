@@ -18,7 +18,15 @@
 
 #### Lecturas: 
 
+[Luis Llanos. El concepto de territorio y la investigación en Ciencias Sociales](1elconceptodeterritorio.pdf)
 
+[José Luis Coraggio. Las bases teóricas de la planificación regional en América Latina (un enfoque crítico)](2lasbasesteóricasdelaplanificaciónregional.pdf)
+
+[Lea Manet. Modelos de desarrollo regional: teorías y factores determinantes](3modelosdedesarrolloregional.pdf)
+
+[Antonio Vásquez. Desarrollo endógeno: teorías y políticas de desarrollo territorial](4desarrolloendógeno.pdf)
+
+[Juan Carrión et al. Economía social y desarrollo local/rural: un análisis de sus sinergias](5economíasocialydesarrollo.pdf)
 
 
 
