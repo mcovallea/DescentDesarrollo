@@ -1,12 +1,12 @@
 # Asignatura Descentralización y Desarrollo Regional
 
-## **Bienvenidos** :books::blue_heart:
+## **¡Bienvenidos**! ¡Bienvenidas!
 
-**Semestre 2018A	| Código de Asignatura: 1101218**
+**Semestre 2018A	| Código de Asignatura: 110011581**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: XXXXX				| Horario: dd/hh
+> Salón: XXXXX				| Horario: Miércoles, 9:00 a 12:00
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
@@ -37,7 +37,19 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 | [2. Teorías del desarrollo regional.](unidad2/README.md) | Conceptos básicos (territorio, región); teorías de la localización (teoría de la localización, teoría de los lugares centrales, teoría de los polos de desarrollo); economía Regional (teoría de la causalidad circular y acumulativa, la nueva geografía económica, competitividad y desarrollo); nuevos enfoques (desarrollo desde abajo, desarrollo endógeno, desarrollo local, desarrollo rural, desarrollo regional territorial). |
 | [3. Descentralización (la función de la descentralización en las visiones del desarrollo).](unidad3/README.md) | Bases conceptuales; procesos de descentralización en Latinoamérica; relación Organización Territorial en Colombia/ Desarrollo Institucional/Descentralización. |
 
+### Acuerdos para la convivencia
 
+La asistencia puntual a clases es fundamentalpara el éxito académico en esta asignatura. 
+
+En igual nivel de importancia se encuentran lalectura previa de los documentos asignados, la participación en clase y larealización de las actividades propuestas tanto durante las horas de trabajopresencial como durante las horas de trabajo independiente. 
+
+Las fechas de evaluaciones y entrega de lostrabajos serán concertadas con los y las participantes en las sesionespresenciales y deben ser respetadas. Las solicitudes de plazos o fechasextraordinarias de evaluación deben ser justificadas y la causa respaldada porsoportes. 
+
+El plagio y todas las formas de fraudeacadémico serán enérgicamente rechazados y tramitados según lo establecido enlas normas de la Universidad. Las actividades (talleres, ensayos, evaluacionesy todos los demás productos elaborados durante el curso de la asignatura) enlas cuales se detecte la presencia de plagio, fraude o cualquier otra prácticaque comprometa éticamente a su autor o autora, obtendrá una calificación de 0(cero). 
+
+La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de la palabra y la expresión libre yautónoma de puntos de vista argumentados. 
+
+Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, asícomo los comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa.
 
 ## 
 
