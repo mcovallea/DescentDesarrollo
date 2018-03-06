@@ -21,7 +21,7 @@
 
 [Robert Nisbet: La idea de progreso](1laideadeprogreso.pdf)
 
-[Vladislav Inozemtsev: Catching up. Los límites del rápido desarrollo económico](2catchingup.pdf)
+[Vladislav Inozemtsev: Catching up. Los límites del desarrollo económico acelerado](2catchingup.pdf)
 
 [Vladislav Inozemtsev: Catching up. The limits of rapid economic development. English](2catchingupenglish.pdf)
 
