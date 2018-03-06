@@ -23,7 +23,7 @@
 
 [Vladislav Inozemtsev: Catching up. Los límites del desarrollo económico acelerado](2catchingup.pdf)
 
-[Vladislav Inozemtsev: Catching up. The limits of rapid economic development. English](2catchingupenglish.pdf)
+[Vladislav Inozemtsev: Catching up. The limits of rapid economic development. English](2catchingupen.pdf)
 
 [Ricardo Bielschowsky: Evolución de las ideas de la CEPAL](3cepal.pdf)
 
