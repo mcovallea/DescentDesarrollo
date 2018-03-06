@@ -21,21 +21,31 @@
 
 [Robert Nisbet: La idea de progreso](1laideadeprogreso.pdf)
 
-[Vladislav Inozemtsev: Catching up. Los límites del rápido desarrollo económico](2catchingup_loslímitesdelrápidodesarrolloeconómico.pdf)
+[Vladislav Inozemtsev: Catching up. Los límites del rápido desarrollo económico](2catchingup.pdf)
 
-[Vladislav Inozemtsev: Catching up. The limits of rapid economic development. English](2catchingup_thelimitsofrapideconomicdevelopment.pdf)
+[Vladislav Inozemtsev: Catching up. The limits of rapid economic development. English](2catchingupenglish.pdf)
 
-[Ricardo Bielschowsky: Evolución de las ideas de la CEPAL](3evolucióndelasideasdelacepal.pdf)
+[Ricardo Bielschowsky: Evolución de las ideas de la CEPAL](3cepal.pdf)
 
-[Fernando Henrique Cardoso: ¿Teoría de la dependencia o análisis concretos de situaciones de dependencia?](4teoríadeladependencia.pdf)
+[Fernando Henrique Cardoso: ¿Teoría de la dependencia o análisis concretos de situaciones de dependencia?](4teoriadeladep.pdf)
 
 [Fernando Henrique Cardoso: Teoria da dependência ou análise concreta de situações de dependência?. Português](4teoriadadependencia.pdf)
 
 [David Harvey: Breve historia del neoliberalismo](5brevehistoriadelneoliberalismo.pdf)
 
-[Immanuel Wallerstein: Análisis de sistemas-mundo. Una introducción](6análisisdesistemasmundo.pdf)
+[Immanuel Wallerstein: Análisis de sistemas-mundo. Una introducción](6ansistmundo.pdf)
 
-[Arturo Escobar: La invención del desarrollo](7lainvencióndeldesarrollo.pdf)
+[Arturo Escobar: La invención del desarrollo](7lainvdeldllo.pdf)
+
+#### Presentación
+
+[Presentación 1](PPT.pdf)
+
+#### Documentos institucionales
+
+[Acuerdo Pedagógico](ACUERDO.pdf)
+
+[Microcurrículo](MICROCRR.pdf)
 
 
 
