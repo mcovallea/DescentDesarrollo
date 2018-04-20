@@ -28,7 +28,9 @@
 
 [Juan Carrión et al. Economía social y desarrollo local/rural: un análisis de sus sinergias](5economíasocialydesarrollo.pdf)
 
+#### Taller: 
 
+[Taller 1 - Unidad 2](Taller 1 Unidad 2)
 
 
 
