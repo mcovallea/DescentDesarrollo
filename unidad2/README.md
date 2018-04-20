@@ -30,7 +30,7 @@
 
 #### Taller: 
 
-[Taller 1 - Unidad 2](Taller 1 Unidad 2)
+[Taller 1 - Unidad 2](Taller 1 Unidad 2.pdf)
 
 
 
