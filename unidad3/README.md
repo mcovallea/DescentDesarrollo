@@ -19,7 +19,11 @@
 
 #### Lecturas: 
 
+[Sergio Boisier. Desarrollo Regional y Descentralización](3.1. Boisier. Desarrollo territorial y descentralización.pdf)
 
+[Robert A. Nickson. La descentralización en América Latina: balance del proceso, nuevas tendencias y retos para una reforma municipal en la región](3.2. Nickson_La Descentralizacion en América Latina balance y retos.pdf)
+
+[Diva García. Ordenamiento territorial y descentralización: competencias, recursos y perspectivas](3.3. García. Ordenamiento territorial y descentralización.pdf) 
 
 
 
